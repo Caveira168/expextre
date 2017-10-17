@@ -1,0 +1,14 @@
+{
+  "name": "expextre-v2",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano#3173",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^0.18.1"
+  }
+}
